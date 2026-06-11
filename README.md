@@ -1,2 +1,4 @@
 # SpatialGeneDrives1
-Code for the spatial gene drive modelling (overview of general dynamics)
+Spatially explicit stochastic gene drive model in Julia.
+
+## File gives main fucntion for running models. Includes non-spatial and spatial models and supplementary functions. File contains function used to run simulations. Main modelling parameters
